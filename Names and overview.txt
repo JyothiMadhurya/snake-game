@@ -1,0 +1,13 @@
+Name: Jyothi Madhurya Nalam
+Name: Gurram Venkata Vishnu Vardhan Reddy 
+Name: Ayyapa Mitta
+Desired Grade: A
+Features Implemented:
+- Playable Snake game with adjustable snake length and number of apples.
+- Snake grows when it eats an apple.
+- Snake moves with arrow keys and continues in the last direction if no key is pressed.
+- Extra Features:
+ - Speed increases after each apple is eaten.
+ - Game timer implemented to limit game time (resets after apple is eaten).
+ - Optimized apple placement to ensure apples do not overlap with the snake.
+- Code is written in x86-64 assembly and follows C calling conventions.
